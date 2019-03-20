@@ -16,7 +16,6 @@ ext {
  hadoopversion = '1.2.1'
  
  hadoopdependency="${hadoopgroup}:${hadoopname}:${hadoopversion}"
- guavadependency= 'com.google.guava:guava:27.0.1-jre'
 }
 
 repositories {
