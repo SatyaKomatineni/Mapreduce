@@ -33,7 +33,6 @@ task testTask {
    }
 }
 
-
 assemble {
  dependsOn testTask
 }
